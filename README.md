@@ -1,5 +1,5 @@
 
-<img src="https://c.tenor.com/6us3et_6HDoAAAAM/hello-there-hi-there.gif" width="250" height="200" align="middle"/>
+<img src="https://c.tenor.com/6us3et_6HDoAAAAM/hello-there-hi-there.gif" width="900" height="350" align="middle"/>
 
 #### Estudante de Engenharia de Software na Universidade de Brasília (UnB)
 #### Conhecimento intermediário de: 
