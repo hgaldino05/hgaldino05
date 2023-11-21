@@ -1,11 +1,11 @@
 
 <img src="https://c.tenor.com/6us3et_6HDoAAAAM/hello-there-hi-there.gif" width="900" height="350" align="middle"/>
 
-#### Estudante de Engenharia de Software na Universidade de Brasília (UnB)
-#### Conhecimento intermediário de: 
+## Estudante de Engenharia de Software na Universidade de Brasília (UnB)
+### Conhecimento intermediário de: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
 
-#### Atualmente aprendendo:
+### Atualmente aprendendo:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
           
           
